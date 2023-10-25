@@ -1,6 +1,6 @@
 ## My C library 📚 in 42 Madrid 🚀
 
-The first Project at <b>42</b> has a goal rewriting these functions. <br>
+The first Project at <b>42</b> has as goal rewriting these functions. <br>
 Also, there is an extra bonus. Its based to create, modify and add nodes to the lists. <br>
 Everything is compiled with Makefile. The following functions must contain the prefix `ft_`:
 
